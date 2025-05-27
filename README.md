@@ -38,4 +38,7 @@ Odkaz na kód spustitelný v Collab:
 
 <p>&nbsp;</p>  
 
-ccokok
+## 4. Závěr
+Z tabulek zmíněných výše je patrné, že použití předtrénovaných modelů pro klasifikaci je daleko přesnější než použití modelů nepředtrénovaných, zejména pak pro naše relativně malé datasety (400 a 4800 vzorků). 
+
+
