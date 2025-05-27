@@ -1,6 +1,6 @@
 # PUIA4_Doprava
 ## 1. Cíl projektu
-Cílem tohoto projektu bylo porovnat výsledky klasifikace předtrénovaných modelů s nepředtrénovanými modely neuronových sítí
+Cílem tohoto projektu bylo porovnat výsledky klasifikace předtrénovaných modelů s nepředtrénovanými modely neuronových sítí kokcmcemckcemnkncknvjrvnjnbjdncjsbvjbvj
 
 ---
 
