@@ -22,4 +22,6 @@ Jako první jsme použili nepředtrénovaný model, se kterým jsme pracovali v 
 | **Data_large**  |   70 / 72   |   80 / 75   |    82 / 80    |
 | **Data_merged** |   71 / 70   |   89 / 88   |    74 / 74    |  
 
-ksxkoxksciv
+Odkaz na kód spustitelný v Collab: https://colab.research.google.com/drive/1y0_8sOUV6VQkrGhz0FBBVTgjzc2f6mum?usp=sharing  
+
+
