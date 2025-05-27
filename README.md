@@ -1,10 +1,7 @@
 # PUIA4_Doprava
-Repozitář se zdrojovými kódy pro projekt rozpoznávání dopravních prostředků  
+## 1. Cíl projektu
 
 
-
-<!-- H1 – hlavní název projektu -->
-# Můj Skvělý Projekt
 
 <!-- Krátký odstavec s běžným odstavcovým textem. 
      Pro zalomení řádku přidej na konec řádku dvě mezery. -->
