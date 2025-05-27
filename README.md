@@ -8,4 +8,7 @@ Pro tuto úlohu jsme použili celkem 2 různé datasety z Kaggle. První dataset
 
 https://www.kaggle.com/datasets/kaggleashwin/vehicle-type-recognition#  
 
-kakaakmxn
+Druhý dataset byl několikrát větší, než první dataset a obsahoval celkem 6 tříd (Bike, Car, Motorcycle, Plane, Ship, Train) a každá třída obsahovala celkem 800 vzorků  
+
+https://www.kaggle.com/datasets/mohamedmaher5/vehicle-classification/data  
+
