@@ -1,8 +1,5 @@
 # PUIA4_Doprava
 ## 1. Cíl projektu
-
-
-
 <!-- Krátký odstavec s běžným odstavcovým textem. 
      Pro zalomení řádku přidej na konec řádku dvě mezery. -->
 Toto je ukázkový projekt, který demonstruje různé prvky Markdownu.  
