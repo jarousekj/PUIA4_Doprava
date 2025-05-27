@@ -43,11 +43,11 @@ Z tabulek zmíněných výše je patrné, že použití předtrénovaných model
 První matice, kterou vidíme níže popisuje případ, kdy jsme předtrénovaný model dotrénovali na sloučených datech (Data_merged) a testovali na malém datasetu (Data_small), můžeme zde vidět, že často nastává špatná klasifikace třídy Truck do třídy Car, jelikož ve velkém datasetu, který je součástí Data_merged, máme některé obrázky třídy Truck zařazené ve třídě Car, kvůli absenci třídy Truck v Data_large.
 
 <p align="center">
-  <img src="confusion_matrix.png" alt="Popis obrázku" width="500"/>
+  <img src="Images/confusion_matrix.png" alt="Popis obrázku" width="500"/>
 </p>  
 
 Druhá matice, kterou vidíme, níže ukazuje případ, kdy jsme předtrénovaný model dotrénovali na malém datasetu (Data_small) a testovali na velkém datasetu (Data_large). Můžeme zde dobře vidět, že třídu Car nám model rozdělil do tříd Car a Truck, což opět odpovídá absenci třídy Truck ve velkém datasetu. 
 
 <p align="center">
-  <img src="confusion_matrix1.png" alt="Popis obrázku" width="500"/>
+  <img src="Images/confusion_matrix1.png" alt="Popis obrázku" width="500"/>
 </p>
