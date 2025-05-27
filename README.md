@@ -6,11 +6,11 @@ Cílem tohoto projektu bylo porovnat výsledky klasifikace předtrénovaných mo
 ## 2. Použité datasety
 Pro tuto úlohu jsme použili celkem 2 různé datasety z Kaggle. První dataset obsahoval pouze čtyři různé třídy (Bus, Car, Motorcycle, Truck), přičemž každá z nich obsahovala 100 vzorků.  
 
-https://www.kaggle.com/datasets/kaggleashwin/vehicle-type-recognition#  
+Data_small: https://www.kaggle.com/datasets/kaggleashwin/vehicle-type-recognition#  
 
 Druhý dataset byl několikrát větší, než první dataset a obsahoval celkem 6 tříd (Bike, Car, Motorcycle, Plane, Ship, Train) a každá třída obsahovala celkem 800 vzorků  
 
-https://www.kaggle.com/datasets/mohamedmaher5/vehicle-classification/data  
+Data_large: https://www.kaggle.com/datasets/mohamedmaher5/vehicle-classification/data  
 
 
 ## 3. Postup řešení
