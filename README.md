@@ -26,4 +26,4 @@ Odkaz na kód spustitelný v Collab: https://colab.research.google.com/drive/1y0
 
 <p>&nbsp;</p>
 
-kockod
+Dále jsme namísto předchozího modelu pro klasifikaci použili předtrénovaný model, konkrétně ResNet50, který jsme pouze dotrénovali na stejných datasetech jako předchozí nepředtrénovaný model.
