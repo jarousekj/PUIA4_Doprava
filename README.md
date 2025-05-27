@@ -1,9 +1,6 @@
 # PUIA4_Doprava
 ## 1. Cíl projektu
-<!-- Krátký odstavec s běžným odstavcovým textem. 
-     Pro zalomení řádku přidej na konec řádku dvě mezery. -->
-Toto je ukázkový projekt, který demonstruje různé prvky Markdownu.  
-Píšeš tu klidně další větu na nový řádek.
+Cílem tohoto projektu bylo porovnat výsledky klasifikace předtrénovaných modelů s nepředtrénovanými modely neuronových sítí
 
 ---
 
