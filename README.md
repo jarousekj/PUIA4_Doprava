@@ -22,8 +22,7 @@ Jako první jsme použili nepředtrénovaný model, se kterým jsme pracovali v 
 | **Data_large**  |   70 / 72   |   80 / 75   |    82 / 80    |
 | **Data_merged** |   71 / 70   |   89 / 88   |    74 / 74    |  
 
-Odkaz na kód spustitelný v Collab: https://colab.research.google.com/drive/15dcYAy_YbsvIPMV_XHV1awia1XUsrQFf?usp=sharing
-
+Odkaz na kód spustitelný v Collab: https://colab.research.google.com/drive/19TI562B0AJEgCYxvvDSlGcbq44wXqzbT?usp=sharing
 <p>&nbsp;</p>
 
 Dále jsme namísto předchozího modelu pro klasifikaci použili předtrénovaný model, konkrétně ResNet50, který jsme pouze dotrénovali na stejných datasetech jako předchozí nepředtrénovaný model. Váhy základního modelu ResNet50 jsme nechali zmražené a přidali navíc pooling a dropout. Pro vyhodnocení jsme opět použili metriku accuracy (abychom měli porovnatelné výsledky) a provedli vyhodnocení taktéž v závislosti na trénovacích i testovacích datech (viz, tabulka níže).  
