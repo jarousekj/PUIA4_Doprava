@@ -24,4 +24,6 @@ Jako první jsme použili nepředtrénovaný model, se kterým jsme pracovali v 
 
 Odkaz na kód spustitelný v Collab: https://colab.research.google.com/drive/1y0_8sOUV6VQkrGhz0FBBVTgjzc2f6mum?usp=sharing  
 
+<p>&nbsp;</p>
 
+kockod
