@@ -39,6 +39,6 @@ Odkaz na kód spustitelný v Collab:
 <p>&nbsp;</p>  
 
 ## 4. Závěr
-Z tabulek zmíněných výše je patrné, že použití předtrénovaných modelů pro klasifikaci je daleko přesnější než použití modelů nepředtrénovaných, zejména pak pro naše relativně malé datasety (400 a 4800 vzorků). 
+Z tabulek zmíněných výše je patrné, že použití předtrénovaných modelů pro klasifikaci je daleko přesnější než použití modelů nepředtrénovaných, zejména pak pro naše relativně malé datasety (400 a 4800 vzorků). Z tabulek je také zřejmé, že při trénování na sloučených datech (Data_merged) a testování například na malém datasetu (Data_small) není accuracy po vyhodnocení úplně vyhovující. Pro odhalení příčiny tohoto problému vykreslujeme konfúzní matici, která nám ilustruje, které třídy bývají nejčastěji zaměněny, což může být způsobeno absencí některých tříd v různých datasetech (například Truck (třída v datasetu Data_small) zařazen ve třídě Car (Společná třída pro oba datasety) )
 
 
