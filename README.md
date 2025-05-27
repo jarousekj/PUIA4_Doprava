@@ -22,7 +22,7 @@ Jako první jsme použili nepředtrénovaný model, se kterým jsme pracovali v 
 | **Data_large**  |   70 / 72   |   80 / 75   |    82 / 80    |
 | **Data_merged** |   71 / 70   |   89 / 88   |    74 / 74    |  
 
-Odkaz na kód spustitelný v Collab: https://colab.research.google.com/drive/1y0_8sOUV6VQkrGhz0FBBVTgjzc2f6mum?usp=sharing  
+Odkaz na kód spustitelný v Collab: [https://colab.research.google.com/drive/1y0_8sOUV6VQkrGhz0FBBVTgjzc2f6mum?usp=sharing](https://colab.research.google.com/drive/19TI562B0AJEgCYxvvDSlGcbq44wXqzbT?usp=sharing)  
 
 <p>&nbsp;</p>
 
@@ -34,7 +34,7 @@ Dále jsme namísto předchozího modelu pro klasifikaci použili předtrénovan
 | **Data_large**  |   76 / 98   |   99 / 98   |    99 / 95    |
 | **Data_merged** |   79 / 98   |   99 / 99   |    99 / 98    |  
 
-Odkaz na kód spustitelný v Collab:  
+Odkaz na kód spustitelný v Collab:  [https://colab.research.google.com/drive/15dcYAy_YbsvIPMV_XHV1awia1XUsrQFf](https://colab.research.google.com/drive/15dcYAy_YbsvIPMV_XHV1awia1XUsrQFf?usp=sharing)
 
 <p>&nbsp;</p>  
 
