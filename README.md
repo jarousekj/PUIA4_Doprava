@@ -26,4 +26,16 @@ Odkaz na kód spustitelný v Collab: https://colab.research.google.com/drive/1y0
 
 <p>&nbsp;</p>
 
-Dále jsme namísto předchozího modelu pro klasifikaci použili předtrénovaný model, konkrétně ResNet50, který jsme pouze dotrénovali na stejných datasetech jako předchozí nepředtrénovaný model.
+Dále jsme namísto předchozího modelu pro klasifikaci použili předtrénovaný model, konkrétně ResNet50, který jsme pouze dotrénovali na stejných datasetech jako předchozí nepředtrénovaný model. Váhy základního modelu ResNet50 jsme nechali zmražené a přidali navíc pooling a dropout. Pro vyhodnocení jsme opět použili metriku accuracy (abychom měli porovnatelné výsledky) a provedli vyhodnocení taktéž v závislosti na trénovacích i testovacích datech (viz, tabulka níže).  
+
+| Test/Train     | Data_small | Data_large | Data_merged |
+|----------------|:----------:|:----------:|:-----------:|
+| **Data_small**  |   97 / 94   |   98 / 99   |    84 / 98    |
+| **Data_large**  |   76 / 98   |   99 / 98   |    99 / 95    |
+| **Data_merged** |   79 / 98   |   99 / 99   |    99 / 98    |  
+
+Odkaz na kód spustitelný v Collab:  
+
+<p>&nbsp;</p>  
+
+ccokok
